@@ -5,8 +5,8 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAZLSEVQMVFVA5CUON
-      secret-key: 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
+      access-key: 
+      secret-key: 
 logging:
   level:
     com:
